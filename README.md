@@ -1,56 +1,101 @@
-<h1 align="center"> Hey, I'm Pallavi Sarovar🪷</h1>
+<h1 align="center">Hey, I'm Pallavi Sarovar 🪷</h1>
 
 <p align="center">
-🎓 CSE Student | 💻 Aspiring Developer | 🤖 Interested in AI & Emerging Technologies
+🎓 CSE Student • 💻 Aspiring Developer • 🤖 AI Enthusiast
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pallavi-676&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
->  *“Learning never exhausts the mind.”* — Leonardo da Vinci
+
+<p align="center">
+<i>“Learning never exhausts the mind.”</i> — Leonardo da Vinci
+</p>
 
 ---
 
 ## 🚀 About Me
+
 - 🎓 Computer Science Engineering undergraduate  
-- 🐍 Strong foundation in Python programming and problem-solving  
-- 📊 Experience working with data analysis concepts and datasets  
-- 🧠 Familiar with HTML(basic) 
-- 🔧 Comfortable using Git & GitHub through terminal  
-- 🌱 Actively learning and strengthening core computer science fundamentals  
-- 📌 Using GitHub to track academic progress and learning journey  
+- 🐍 Strong foundation in Python & problem-solving  
+- 📊 Exploring Data Analytics & real-world datasets  
+- 🌐 Basic knowledge of Web Development (HTML, CSS, JavaScript)  
+- 🔧 Comfortable with Git & GitHub (CLI workflow)  
+- 🌱 Currently improving core CS fundamentals  
+- 📌 Documenting my learning journey through projects  
 
 ---
 
-## 🔥 Tech Stack
+## 🛠 Tech Stack
 
-### 🧑‍💻 Programming
-`Python`
+### 💻 Programming
+- Python  
 
-### 📊 Data Analytics & Libraries
-`NumPy` `Pandas` `Matplotlib`
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
 
-### 🛠 Tools
-`Git` `GitHub` `VS Code`
+### 📊 Data & Libraries
+- NumPy  
+- Pandas  
+- Matplotlib  
 
-### 🌐 Web
-`HTML`
+### ⚙️ Tools
+- Git  
+- GitHub  
+- VS Code  
 
 ---
-## 🎨 Creative & Design
 
-| Skill | Description |
-|------|------------|
-| Design Thinking | 🧠 Structuring ideas with clarity and logic |
-| Visual Communication | 🎯 Creating clean layouts and presentations |
-| Animation & Motion Sense | ✨ Interest in motion, flow, and transitions |
-| Storytelling | 📖 Explaining concepts creatively and clearly |
-| User-Centric Thinking | 👥 Designing with user experience in mind |
-| Interaction Logic | 🎮 Planning responses based on user actions |
+## 🌟 Featured Projects
+
+### ⏱ Pomodoro Timer Web App
+- Focus & break timer with task tracking  
+- Built using HTML, CSS, JavaScript  
+- 🔗 https://pomodoro-timer-web-app-ps.netlify.app/
+
+### 🧮 Modern Calculator Web App
+- Clean and responsive calculator UI  
+- Built using HTML, CSS  
+- 🔗 https://github.com/pallavi-676/modern-calculator-web-app
+
+### ⌨ Typing Speed Analyzer
+- Measures typing speed and accuracy  
+- Built using Python  
+- 🔗 https://github.com/pallavi-676/typing-speed-analyzer
+
+### ✅ To-Do App
+- Simple and clean task manager  
+- Built using HTML, CSS  
+- 🔗 https://github.com/pallavi-676/to-do-app
+
+---
+
+## 🎨 Creative & Design Skills
+
+- 🧠 Design Thinking  
+- 🎯 Visual Communication  
+- ✨ Motion & Animation  
+- 📖 Storytelling  
+- 👥 User-Centric Thinking  
+- 🎮 Interaction Logic  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pallavi-676&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Career Objective
-To continuously improve my technical skills and gain practical exposure in software development and data analytics while contributing to meaningful and impactful projects.
+
+To continuously improve my technical skills and gain real-world experience in software development and data analytics while contributing to impactful projects.
 
 ---
 
