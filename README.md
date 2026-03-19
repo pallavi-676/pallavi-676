@@ -18,13 +18,16 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering undergraduate  
-- 🐍 Strong foundation in Python & problem-solving  
-- 📊 Exploring Data Analytics & real-world datasets  
-- 🌐 Basic knowledge of Web Development (HTML, CSS, JavaScript)  
-- 🔧 Comfortable with Git & GitHub (CLI workflow)  
-- 🌱 Currently improving core CS fundamentals  
-- 📌 Documenting my learning journey through projects  
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering undergraduate passionate about building real-world applications  
+- 🤖 Developed projects like a Python-based voice assistant (Jarvis) and interactive web apps  
+- 🐍 Strong problem-solving skills with Python and growing interest in Data Analytics  
+- 🌐 Building responsive web applications using HTML, CSS, and JavaScript  
+- 📊 Exploring data-driven thinking and working with libraries like NumPy, Pandas, and Matplotlib  
+- 🔧 Comfortable with Git, GitHub, and command-line workflows  
+- 🧠 Focused on strengthening core concepts like DSA, logic building, and system thinking  
+- 🚀 Actively improving through hands-on projects and consistent learning  
 
 ---
 
@@ -52,6 +55,12 @@
 
 ## 🌟 Featured Projects
 
+### 🤖 Jarvis AI Assistant
+- Voice-based assistant that performs tasks using Python  
+- Can execute commands, automate tasks, and respond intelligently  
+- Built using Python (speech recognition, automation concepts)  
+- 🔗 https://github.com/pallavi-676/Jarvis
+
 ### ⏱ Pomodoro Timer Web App
 - Focus & break timer with task tracking  
 - Built using HTML, CSS, JavaScript  
@@ -61,6 +70,8 @@
 - Clean and responsive calculator UI  
 - Built using HTML, CSS  
 - 🔗 https://github.com/pallavi-676/modern-calculator-web-app
+- 🔗 https://calculator-web-ps.netlify.app/
+
 
 ### ⌨ Typing Speed Analyzer
 - Measures typing speed and accuracy  
