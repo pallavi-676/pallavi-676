@@ -131,6 +131,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pallavi-676&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-676&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🎯 Career Objective
