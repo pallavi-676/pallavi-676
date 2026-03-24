@@ -32,14 +32,14 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering undergraduate passionate about building real-world applications  
-- 🤖 Built projects like a Python-based voice assistant (Jarvis) and interactive web apps  
-- 🐍 Strong problem-solving skills with Python and growing interest in Data Analytics  
-- 🌐 Building responsive web applications using HTML, CSS, and JavaScript  
-- 📊 Exploring data-driven thinking using NumPy, Pandas, and Matplotlib  
-- 🔧 Comfortable with Git, GitHub, and command-line workflows  
-- 🧠 Focused on DSA, logic building, and core CS fundamentals  
-- 💡 Interested in AI, automation, and solving real-world problems  
+
+
+- 🎓 CSE undergraduate passionate about building real-world applications  
+- 🤖 Built AI & web-based projects 
+- 🐍 Strong in Python, exploring Data Analytics  
+- 🌐 Skilled in HTML, CSS, JavaScript  
+- 🧠 Focused on DSA & core CS fundamentals
+- 💡 Interested in AI, automation, and solving real-world problems
 - 🏎️ Passionate about Formula 1 — inspired by performance, precision, and data-driven decisions  
 
 ---
@@ -77,19 +77,15 @@
 
 ---
 
-## 🌟 Featured Projects
-
 | Project | Description | Link |
 |--------|------------|------|
-| 🤖 Jarvis AI | Python voice assistant for automation | https://github.com/pallavi-676/Jarvis |
-| ⏱ Pomodoro Timer | Focus timer (HTML, CSS, JS) | https://pomodoro-timer-web-app-ps.netlify.app/ |
-| 🧮 Calculator | Responsive calculator (HTML, CSS) | https://github.com/pallavi-676/modern-calculator-web-app |
-| ⌨ Typing Analyzer | Speed & accuracy tracker (Python) | https://github.com/pallavi-676/typing-speed-analyzer |
-| ✅ To-Do App | Simple task manager | https://github.com/pallavi-676/to-do-app |
+| 🤖 Jarvis AI | Python voice assistant | [GitHub](https://github.com/pallavi-676/Jarvis) |
+| ⏱ Pomodoro Timer | Focus timer (HTML, CSS, JS) | [Live](https://pomodoro-timer-web-app-ps.netlify.app/) |
+| 🧮 Calculator | Responsive calculator | [GitHub](https://github.com/pallavi-676/modern-calculator-web-app) |
+| ⌨ Typing Analyzer | Speed & accuracy tracker | [GitHub](https://github.com/pallavi-676/typing-speed-analyzer) |
+| ✅ To-Do App | Task manager | [GitHub](https://github.com/pallavi-676/to-do-app) |
 
 ➡️ *More projects coming soon...*
-
-
 
 ---
 
