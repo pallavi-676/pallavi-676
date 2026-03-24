@@ -79,39 +79,17 @@
 
 ## 🌟 Featured Projects
 
-### 🤖 Jarvis AI Assistant
-- Python-based voice assistant that automates tasks and executes commands  
-- Uses speech recognition and system automation concepts  
-- 🔗 GitHub: https://github.com/pallavi-676/Jarvis  
+| Project | Description | Link |
+|--------|------------|------|
+| 🤖 Jarvis AI | Python voice assistant for automation | https://github.com/pallavi-676/Jarvis |
+| ⏱ Pomodoro Timer | Focus timer (HTML, CSS, JS) | https://pomodoro-timer-web-app-ps.netlify.app/ |
+| 🧮 Calculator | Responsive calculator (HTML, CSS) | https://github.com/pallavi-676/modern-calculator-web-app |
+| ⌨ Typing Analyzer | Speed & accuracy tracker (Python) | https://github.com/pallavi-676/typing-speed-analyzer |
+| ✅ To-Do App | Simple task manager | https://github.com/pallavi-676/to-do-app |
 
----
+➡️ *More projects coming soon...*
 
-### ⏱ Pomodoro Timer Web App
-- Focus & break timer with task management and clean UI  
-- Built using HTML, CSS, JavaScript  
-- 🔗 Live: https://pomodoro-timer-web-app-ps.netlify.app/  
 
----
-
-### 🧮 Modern Calculator Web App
-- Responsive calculator with clean and minimal UI  
-- Built using HTML, CSS  
-- 🔗 GitHub: https://github.com/pallavi-676/modern-calculator-web-app  
-- 🔗 Live: https://calculator-web-ps.netlify.app/  
-
----
-
-### ⌨ Typing Speed Analyzer
-- Measures typing speed and accuracy with real-time feedback  
-- Built using Python  
-- 🔗 GitHub: https://github.com/pallavi-676/typing-speed-analyzer  
-
----
-
-### ✅ To-Do App
-- Simple and efficient task manager with clean design  
-- Built using HTML, CSS  
-- 🔗 GitHub: https://github.com/pallavi-676/to-do-app  
 
 ---
 
