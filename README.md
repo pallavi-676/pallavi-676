@@ -106,8 +106,8 @@
 </p>
 
 <p align="center">
-     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-676&theme=tokyonight&hide_border=true" width="45%/>
-       </p>
+ <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-676&theme=tokyonight&hide_border=true" width="45%/>
+     </p>
  
 
 ---
