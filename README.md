@@ -100,28 +100,26 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pallavi-676&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-676&theme=tokyonight&cache_seconds=86400" />
-</p>
-
+- 🚀 Consistently building projects  
+- 📚 Focused on learning and growth  
+- 💻 Exploring real-world development  
 ---
 
 ## 📬 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pallavi-sarovar-859083383/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Sarovar-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:pallavisarovar1099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pallavisarovar1099%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
+
 ---
+
 
 ## 🎯 Career Objective
 
