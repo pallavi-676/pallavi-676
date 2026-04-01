@@ -36,6 +36,7 @@
 - 🤖 Built AI & web-based projects  
 - 🐍 Strong in Python, exploring Data Analytics  
 - 🌐 Skilled in HTML, CSS, JavaScript  
+- 💻 Learning C++  
 - 🧠 Focused on DSA & core CS fundamentals  
 - 💡 Interested in AI, automation, and solving real-world problems  
 - 🏎️ Passionate about Formula 1 — inspired by performance, precision, and data-driven decisions  
@@ -45,15 +46,17 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
 ---
 
 ### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
@@ -67,10 +70,10 @@
 ---
 
 ### ⚙️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-</p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## 📂 Projects
@@ -103,6 +106,19 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-676&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pallavi-sarovar-859083383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Sarovar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pallavisarovar1099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pallavisarovar1099%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
